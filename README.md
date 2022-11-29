@@ -1,5 +1,7 @@
 # cs3-projects
-This repository contains my Java projects from Computer Science 3 (CS3) during the 2021-2022 school year. In CS3, I learned more advanced Java topics that furthered my ambition for computer science and programming.
+This repository contains my Java projects from Computer Science 3 (CS3) during the 2021-2022 school year. In CS3, I learned more advanced Java topics such as data structures and algorithms that improved my understanding of the Java programming language and prepared me for future computer science education.
+
+
 
 Course Description:
 
